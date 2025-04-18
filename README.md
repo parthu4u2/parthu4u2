@@ -69,6 +69,10 @@
  
 -->
 
+<a href="https://github.com/parthu4u2"><img align="center" src="https://github-profile-trophy.vercel.app/?username=parthu4u2&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=1&column=4"/></a>
+
+
+
   <h1 align='center'>Thank You ...</h1>
 
 
