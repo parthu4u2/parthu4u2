@@ -32,8 +32,7 @@
 <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/html-5-1-1175208.png" alt="HTML5 Programming" style="width:50px;height:50px;"></a>&nbsp;
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-css-alt-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-2944811.png?f=webp&w=256" alt="HTML5 Programming" style="width:50px;height:50px;"></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL Programming" style="width:50px;"></a>&nbsp;&nbsp;
-<a href="https://www.php.net/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-php-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226042.png?f=webp&w=256
-" alt="PHP" style="width:50px;"></a>&nbsp;&nbsp;
+<a href="https://www.php.net/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-php-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226042.png?f=webp&w=256" alt="PHP" style="width:50px;"></a>&nbsp;&nbsp;
 
 
 
