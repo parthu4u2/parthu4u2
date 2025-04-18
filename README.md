@@ -58,11 +58,13 @@
  
 
 ### visitor count :
-<br>
+</br>
+
  ![Visitor Count](https://profile-counter.glitch.me/parthu4u2/count.svg)
-<br>
+ 
+</br>
 
 
-  <h1 align='center'>Thank you ...</h1>
+  <h1 align='center'>Thank You ...</h1>
 
 
