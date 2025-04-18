@@ -59,9 +59,8 @@
 
 ### Visitor count :
  
- &nbsp;&nbsp;![Visitor Count](https://profile-counter.glitch.me/parthu4u2/count.svg)
+ &nbsp;&nbsp;&nbsp;&nbsp;![Visitor Count](https://profile-counter.glitch.me/parthu4u2/count.svg)
  
-</br>
 
 
   <h1 align='center'>Thank You ...</h1>
