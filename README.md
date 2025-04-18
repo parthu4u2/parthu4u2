@@ -1,9 +1,10 @@
-  <h1 align='center'>Hey, I am Parth Patel 👋</h1>
+  <h1 align='center'>Hey, I am Parth Patel 👋</h1>   ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
+  
 
 <a href="https://github.com/parthu4u2"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&center=true&vCenter=true&width=935&height=55&lines=AI%26ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%92%A1;Passionate+About+Data+%26+Code+%F0%9F%93%8A%F0%9F%92%BB;Learning+by+Doing+%F0%9F%9A%80" alt="Typing SVG" /></a> 
 ### 👨‍💻@whoami :
 
- ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 🚀 MSc IT (AI Track) | 🤖 Designing Smarter Systems with Machine Learning | 🧩 Merging Code, Data & Curiosity | ⚗️ Experimenting with Models & Architectures | 🚧 Work In Progress: Always Leveling Up
 
