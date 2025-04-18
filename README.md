@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Visitors](https://visitcount.itsvg.in/api?id=parthu4u2&label=Profile%20Views&color=0&icon=2&pretty=true)](https://github.com/parthu4u2)
+
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=parthu4u2&label=Visitors&color=0&icon=0)](https://github.com/parthu4u2)
