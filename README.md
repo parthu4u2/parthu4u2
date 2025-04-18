@@ -1,6 +1,7 @@
 <div>
-<h1 align="center">Hey, I am Parth Patel 👋</h1>
+<h1 align="center">Hey, I am Parth Patel 👋
  <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge"> 
+ </h1>
 </div>
 
 
