@@ -1,14 +1,10 @@
-<h1 align="center">
-  Hey, I am Parth Patel 👋
-  <span align="right">
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
-  </span>
+<h1 style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
+  <span>Hey, I am Parth Patel 👋</span>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
 </h1>
 
 
 
-
-  
 
 <a href="https://github.com/parthu4u2"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&center=true&vCenter=true&width=935&height=55&lines=AI%26ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%92%A1;Passionate+About+Data+%26+Code+%F0%9F%93%8A%F0%9F%92%BB;Learning+by+Doing+%F0%9F%9A%80" alt="Typing SVG" /></a> 
 ### 👨‍💻@whoami :
