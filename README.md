@@ -56,9 +56,5 @@
 </a> 
  
  
+ ![Visitor Count](https://profile-counter.glitch.me/parthu4u2/count.svg)
 
-<a href="https://github.com/parthu4u2">
-  <img align="center" src="https://visitcount.itsvg.in/api?id=parthu4u2&label=Visitors&color=0&icon=0" alt="Visitor Count" />
-</a>
-
- 
