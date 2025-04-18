@@ -1,4 +1,4 @@
-  <h1 align='center'>Hi, I am Parth Patel 👋</h1>
+  <h1 align='center'>Hey, I am Parth Patel 👋</h1>
 
 <a href="https://github.com/parthu4u2"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&center=true&vCenter=true&width=935&height=55&lines=AI%26ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%92%A1;Passionate+About+Data+%26+Code+%F0%9F%93%8A%F0%9F%92%BB;Learning+by+Doing+%F0%9F%9A%80" alt="Typing SVG" /></a> 
 ### 👨‍💻@whoami :
@@ -54,7 +54,15 @@
 <a href="https://github.com/parthu4u2">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=parthu4u2&theme=github_dark&count_private=false&show_icons=true&hide_rank=true&custom_title=Parth's&nbsp;GitHub&nbsp;Stats&include_all_commits=true" />
 </a> 
+
  
- 
+
+### visitor count :
+<br>
  ![Visitor Count](https://profile-counter.glitch.me/parthu4u2/count.svg)
+<br>
+
+
+  <h1 align='center'>Thank you ...</h1>
+
 
