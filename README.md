@@ -1,6 +1,6 @@
-<h1 style="display: flex; justify-content: center; align-items: center;">
+<h1 align-items: center;">
   Hey, I am Parth Patel 👋
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge" style="margin-left: 10px;">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge" style="margin:left;">
 </h1>
 
 
