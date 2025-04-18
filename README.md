@@ -59,7 +59,7 @@
 
 ### Visitor count :
  
- &nbsp;&nbsp;&nbsp;&nbsp;![Visitor Count](https://profile-counter.glitch.me/parthu4u2/count.svg)
+ &nbsp;&nbsp;<a>=> &nbsp;</a>![Visitor Count](https://profile-counter.glitch.me/parthu4u2/count.svg)
  
 
 
