@@ -1,7 +1,8 @@
-<h1 style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
-  <span>Hey, I am Parth Patel 👋</span>
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
+<h1 align="center">
+  Hey, I am Parth Patel 👋
+ <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge"> 
 </h1>
+
 
 
 
