@@ -1,4 +1,5 @@
-  <h1 align='center'>Hey, I am Parth Patel 👋</h1>   ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+  <h1 align='center'>Hey, I am Parth Patel 👋   <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
+</h1> 
 
   
 
