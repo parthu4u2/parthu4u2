@@ -71,8 +71,9 @@
 
 <a href="https://github.com/parthu4u2"><img align="center" src="https://github-profile-trophy.vercel.app/?username=parthu4u2&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=1&column=4"/></a>
 
-[![](https://holopin.me/parthu4u2)](https://holopin.io/@parthu4u2)
 
+ [![An image of @parthu4u2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parthu4u2)](https://holopin.io/@parthu4u2)
+ 
   <h1 align='center'>Thank You ...</h1>
 
 
